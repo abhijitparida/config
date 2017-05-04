@@ -1,0 +1,24 @@
+[user]
+    name = Abhijit Parida
+    email = abhijitparida.me@gmail.com
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    on = log --oneline --decorate
+    gr = log --oneline --graph --decorate
+    re = reset --hard
+    cl = clean -fd
+    today = log --oneline --since=5am
+
+[core]
+    pager = less -q
+    editor = vim
+    quotepath = false
+
+[color]
+    ui = auto
+
+[push]
+    default = matching

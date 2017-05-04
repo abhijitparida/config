@@ -1,0 +1,5 @@
+Protocol = PPPoE
+VPI = 0
+VCI = 35
+Encapsulation Type = LLC/SNAP
+Encapsulation Mode = Bridged
