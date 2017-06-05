@@ -1,0 +1,12 @@
+cutepdf writer
+ffmpeg
+hashtab
+joytokey
+make
+mkvtoolnix
+mp3tag
+nexusfont
+rufus
+sktimestamp
+wget
+youtube-dl
