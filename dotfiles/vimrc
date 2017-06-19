@@ -1,3 +1,5 @@
+" For vi: .exrc
+" set nocompatible
 set smartindent
 set tabstop=4
 set shiftwidth=4
