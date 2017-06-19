@@ -1,4 +1,3 @@
-windows/linux:
 7zip
 balsamiq mockups
 chrome
@@ -14,6 +13,7 @@ joytokey
 logicly
 mkvtoolnix
 mp3tag
+mpv
 nexusfont
 office
 origin
@@ -27,10 +27,3 @@ steam
 sublime text
 tixati
 youtube-dl
-
-android:
-es file explorer
-moon reader
-mx player
-nova launcher
-ttorrent
