@@ -1,0 +1,36 @@
+windows/linux:
+7zip
+balsamiq mockups
+chrome
+cutepdf writer
+dropbox
+easeus partion master
+ffmpeg
+git
+hashtab
+idm
+inkscape
+joytokey
+logicly
+mkvtoolnix
+mp3tag
+nexusfont
+office
+origin
+photoshop
+picassa
+recuva
+rufus
+sktimestamp
+speccy
+steam
+sublime text
+tixati
+youtube-dl
+
+android:
+es file explorer
+moon reader
+mx player
+nova launcher
+ttorrent
