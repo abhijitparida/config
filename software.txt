@@ -1,29 +1,39 @@
 7zip
-balsamiq mockups
+android studio [dev]
+balsamiq mockups [design]
 chrome
 cutepdf writer
 dropbox
 easeus partion master
+f.lux
 ffmpeg
-git
+gcc [dev]
+git [dev]
+gog galaxy [gaming]
 hashtab
-idm
-inkscape
-joytokey
+idm [download]
+inkscape [design]
+jdk [dev]
+joytokey [gaming]
 logicly
 mkvtoolnix
 mp3tag
 mpv
-nexusfont
+nexusfont [design]
+node [dev]
 office
-origin
-photoshop
+origin [gaming]
+photoshop [design]
 picassa
+python [dev]
 recuva
+ruby [dev]
 rufus
 sktimestamp
-speccy
-steam
+speccy [gaming]
+steam [gaming]
 sublime text
-tixati
-youtube-dl
+tixati [download]
+u play [gaming]
+vim
+youtube-dl [download]
