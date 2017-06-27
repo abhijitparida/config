@@ -1,0 +1,38 @@
+ADM
+CamScanner
+Chrome
+Clover
+Cyanogenmod Calculator
+Dropbox
+ES File Explorer
+F-Droid
+Fit
+Gmail
+Google Calender
+Google Docs
+Google Keep
+Google Maps
+Google PDF Viewer
+Google Sheets
+Google Slides
+Google Translate
+Hangouts
+Hiki Player
+Messenger
+Moon Reader
+MX Player
+NewPipe
+Nova Launcher
+Paytm
+Phonograph
+Piktures
+Reddit
+Shazam
+Snapseed
+Steam
+Truecaller
+tTorrent
+Uber
+Whatsapp
+Xender
+Youtube
