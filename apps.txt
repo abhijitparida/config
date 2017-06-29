@@ -3,6 +3,7 @@ CamScanner
 Chrome
 Clover
 Cyanogenmod Calculator
+Discord
 Dropbox
 ES File Explorer
 F-Droid
@@ -23,6 +24,7 @@ Moon Reader
 MX Player
 NewPipe
 Nova Launcher
+Palabre
 Paytm
 Phonograph
 Piktures
