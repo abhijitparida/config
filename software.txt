@@ -16,6 +16,7 @@ inkscape [design]
 jdk [dev]
 joytokey [gaming]
 logicly
+matlab
 mkvtoolnix
 mp3tag
 mpv
