@@ -9,5 +9,6 @@ Installers
 Movies
 Music
 Podcasts
+Stash
 TV Shows
 Utils
