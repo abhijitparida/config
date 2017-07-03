@@ -22,3 +22,6 @@
 
 [push]
     default = matching
+
+[credential]
+    helper = store
