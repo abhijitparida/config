@@ -8,6 +8,7 @@ easeus partion master
 f.lux
 ffmpeg
 gcc [dev]
+geanymotion
 git [dev]
 gog galaxy [gaming]
 hashtab
@@ -37,4 +38,5 @@ sublime text
 tixati [download]
 u play [gaming]
 vim
+virtual box
 youtube-dl [download]
