@@ -36,5 +36,6 @@ Truecaller
 tTorrent
 Uber
 Whatsapp
+x360ce
 Xender
 Youtube
