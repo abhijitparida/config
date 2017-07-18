@@ -21,6 +21,7 @@ matlab
 mkvtoolnix
 mp3tag
 mpv
+neofetch
 nexusfont [design]
 node [dev]
 office
