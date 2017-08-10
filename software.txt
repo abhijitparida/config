@@ -12,8 +12,9 @@ geanymotion
 git [dev]
 gog galaxy [gaming]
 hashtab
+hexchat
 idm [download]
-inkscape [design]
+illustrator [design]
 jdk [dev]
 joytokey [gaming]
 logicly
@@ -25,6 +26,7 @@ neofetch
 nexusfont [design]
 node [dev]
 office
+open broadcaster software
 origin [gaming]
 photoshop [design]
 picassa
@@ -40,4 +42,5 @@ tixati [download]
 u play [gaming]
 vim
 virtual box
+virtualdub
 youtube-dl [download]
