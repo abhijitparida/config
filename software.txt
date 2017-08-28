@@ -19,6 +19,7 @@ jdk [dev]
 joytokey [gaming]
 logicly
 matlab
+meld [dev]
 mkvtoolnix
 mp3tag
 mpv
