@@ -8,6 +8,7 @@ Discord
 Dropbox
 ES File Explorer
 F-Droid
+Fing - Network Tools
 Fit
 Gmail
 Google Calender
@@ -38,6 +39,7 @@ Truecaller
 tTorrent
 Uber
 Whatsapp
+Wifi Analyzer
 x360ce
 Xender
 Youtube
