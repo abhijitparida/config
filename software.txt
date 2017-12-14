@@ -45,3 +45,4 @@ vim
 virtual box
 virtualdub
 youtube-dl [download]
+x360ce

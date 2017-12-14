@@ -40,6 +40,5 @@ tTorrent
 Uber
 Whatsapp
 Wifi Analyzer
-x360ce
 Xender
 Youtube
