@@ -1,14 +1,11 @@
 ADM
-Andro IRC
 CamScanner
 Chrome
 Clover
 Cyanogenmod Calculator
-Discord
 Dropbox
 ES File Explorer
 F-Droid
-Fing - Network Tools
 FitNotes
 Gmail
 Google Calender
@@ -20,26 +17,21 @@ Google PDF Viewer
 Google Sheets
 Google Slides
 Google Translate
-Hangouts
 Hiki Player
-Messenger
 Moon Reader
 MX Player
 NewPipe
 Nova Launcher
-Palabre
+Palabre RSS
 Paytm
 Phonograph
 Piktures
 Reddit
 Retrica
 Shazam
-Snapseed
 Steam
 Truecaller
 tTorrent
 Uber
 Whatsapp
-Wifi Analyzer
-Xender
 Youtube

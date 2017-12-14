@@ -1,48 +1,17 @@
 7zip
-android studio [dev]
-balsamiq mockups [design]
 chrome
-cutepdf writer
 dropbox
 easeus partion master
-f.lux
-ffmpeg
-gcc [dev]
-geanymotion
-git [dev]
-gog galaxy [gaming]
+git
 hashtab
-hexchat
-idm [download]
-illustrator [design]
-jdk [dev]
-joytokey [gaming]
-logicly
-matlab
-meld [dev]
-mkvtoolnix
-mp3tag
+idm
 mpv
-neofetch
-nexusfont [design]
-node [dev]
-office
-open broadcaster software
-origin [gaming]
-photoshop [design]
 picassa
-python [dev]
 recuva
-ruby [dev]
 rufus
 sktimestamp
-speccy [gaming]
-steam [gaming]
+steam
 sublime text
-tixati [download]
-u play [gaming]
+tixati
 vim
-virtual box
-virtualdub
-youtube-dl [download]
-x360ce
+youtube-dl
