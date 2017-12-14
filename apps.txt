@@ -9,10 +9,11 @@ Dropbox
 ES File Explorer
 F-Droid
 Fing - Network Tools
-Fit
+FitNotes
 Gmail
 Google Calender
 Google Docs
+Google Fit
 Google Keep
 Google Maps
 Google PDF Viewer
