@@ -1,9 +1,0 @@
-# +grml-zsh-config
-
-if [ "$(tty)" = "/dev/tty1" ]; then
-  startx
-fi
-
-export PATH=~/scripts:$PATH
-
-alias x=exit
