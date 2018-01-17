@@ -1,13 +1,12 @@
 {
     "always_show_minimap_viewport": true,
     "default_line_ending": "unix",
+    "detect_indentation": true,
     "ensure_newline_at_eof_on_save": true,
+    "font_size": 11,
     "ignored_packages": ["Vintage"],
-    "rulers": [80, 100],
+    "rulers": [80],
     "save_on_focus_lost": true,
-    "translate_tabs_to_spaces": true,
-    "tab_size": 4,
-    "detect_indentation": false,
     "trim_trailing_white_space_on_save": true,
     "update_check": false
 }
