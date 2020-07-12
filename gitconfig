@@ -13,7 +13,7 @@
     today = log --oneline --since=5am
 
 [core]
-    pager = less -q
+    pager = less -q -S
     editor = vim
     quotepath = false
 
