@@ -1,3 +1,0 @@
-Extensions:
-  iakimov.check-npm-updates
-  editorconfig.editorconfig
